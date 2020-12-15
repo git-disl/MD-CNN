@@ -16,3 +16,5 @@ Since the source code file needs to be processed separately for each commit vers
 ```
  CUDA_VISIBLE_DEVICES=0 python3 cnn_train.py train
 ```
+
+Forked from https://github.com/cqu-isse/Bei-Wang
